@@ -1,4 +1,5 @@
 # 💫 About Me:
+CS student 
 Currently working on Quantum tech <br>Open contributor <br>
 
 
